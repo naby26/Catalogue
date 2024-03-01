@@ -28,4 +28,5 @@ public class Produit {
 		
 		 private Double prix;
 		 
+		 private int test;
 }
