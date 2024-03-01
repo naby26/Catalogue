@@ -22,9 +22,9 @@ public class Produit {
 		
 		 private String reference;
 		
-		 private String types;
+		 private String type;
 
-		 private Date expirations;
+		 private Date expiration;
 		
 		 private Double prix;
 		 
